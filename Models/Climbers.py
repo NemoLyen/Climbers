@@ -30,3 +30,5 @@ class Climbers(Model):
         field = input("Введите названия поля")
         values = input("ВвЕДИТЕ НОВОЕ назначения")
         super().update(self.__nameTable,id,field,values)
+
+        1

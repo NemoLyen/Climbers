@@ -45,3 +45,4 @@ class Model:
             connection().close()
             print("Запись обновления")
 
+1
